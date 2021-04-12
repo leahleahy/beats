@@ -1,5 +1,5 @@
 [[monitor-options]]
-=== Common monitor options
+=== Common monitor options 
 
 You can specify the following options when defining a {beatname_uc} monitor in any location.
 These options are the same for all monitors. Each monitor type has additional configuration
